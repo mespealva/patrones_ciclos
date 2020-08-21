@@ -7,4 +7,3 @@ num.times do |i|
     end
 end
 puts
-#solo funciona con numeros pares, pero el ejercio dice q funcione con 10 so....
